@@ -82,4 +82,4 @@ legend("top", colnames(random.oj$err.rate),col=1:4,cex=0.8,fill=1:4)
 print(random.oj)
 summary(random.oj) # technical details of the random forests regression
  
-```
+
